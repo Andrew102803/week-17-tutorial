@@ -17,7 +17,6 @@ Regex for url `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
